@@ -1,0 +1,1 @@
+models = ['alexNet', 'Densenet', 'Resnet_20', 'Resnet_32', 'Resnet_44', 'Resnet_56', 'Resnet_110', 'Vgg16_bn', 'Vgg19_bn', 'Wrn_28']
