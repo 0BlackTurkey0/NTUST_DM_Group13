@@ -80,6 +80,7 @@ for n in range(2, len(models)+1):
                 modelTeamDict[m].add(teamName)
             else:
                 modelTeamDict[m] = set([teamName,])
+print(("0123456789", teamAccuracyDict["0123456789"]))
 
 
 # calculate the diversity measures for all configurations
